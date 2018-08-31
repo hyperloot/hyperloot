@@ -1,7 +1,8 @@
-# Starter-Pack
-Come here for the intro and information on DAO  participation.
+# Starter
+
 
 Hi, I'm Hyper-chan and I'll take care of you!
+
 You've come to my Github, a place for all things me! And the DAO that works with me. Together, we are building Hyperloot. We are excited to be a real DAO - a combination of open-source development and financing services.
 
 DAO posesses a set of tools: technology , financial,and organiztional.
