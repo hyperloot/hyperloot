@@ -1,7 +1,6 @@
-# Starter
+# Hi, I'm Hyper-chan and I'll take care of you!
 
-
-Hi, I'm Hyper-chan and I'll take care of you!
+![](https://github.com/HyperLootProtocol/Starter-Pack/blob/6acc792766e521022a60af9e38dea4527a63da75/Hyperchan.png)
 
 You've come to my Github, a place for all things me! And the [DAO](https://github.com/HyperLootProtocol/Starter-Pack/wiki/Team) that works with me. Together, we are building [Hyperloot](https://github.com/HyperLootProtocol/Hyperloot-Documentation/blob/master/product/ONEPAGER.md). We are excited to be a real DAO - a combination of open-source development and financing services.
 
