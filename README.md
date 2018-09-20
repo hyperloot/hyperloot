@@ -2,7 +2,7 @@
 
 ![](https://github.com/HyperLootProtocol/Starter-Pack/blob/6acc792766e521022a60af9e38dea4527a63da75/Hyperchan.png)
 
-You've come to my Github, a place for all things me! And the DAO that works with me. Together, we are building [Hyperloot](https://github.com/HyperLootProtocol/hyperloot-branding/raw/master/hyperloot_onepager.pdf). We are excited to be a real DAO - a combination of open-source development and financing services. Learn more in my [Wiki!](https://github.com/HyperLootProtocol/starter-pack/wiki/DAO-and-Participation-FAQ)
+You've come to my GitHub, a place for all things me! And the DAO that works with me. Together, we are building [Hyperloot](https://github.com/HyperLootProtocol/hyperloot-branding/raw/master/hyperloot_onepager.pdf). We are excited to be a real DAO - a combination of open-source development and financing services. Learn more in my [Wiki!](https://github.com/HyperLootProtocol/starter-pack/wiki/DAO-and-Participation-FAQ)
 
 DAO posesses a set of tools: technology , financial, and organizational.
 Our aim is to connecting blockchain development and game development so that gamers around can have [real property](https://github.com/HyperLootProtocol/starter-pack/wiki/Product-FAQ) rights to their in-game digital items. It will make trading and exchanging items [possible](https://youtu.be/8vAbLziUISQ).
