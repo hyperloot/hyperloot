@@ -2,7 +2,7 @@
 
 Hyperloot protocol is aiming at allowing developers to convert their in-game/in-app assets into tradable tokens and enabling in-app trading using blockchain technology. To achieve that Hyperloot architecture is based on its own backend and additional blockchain layer.
 
-![Hyperloot High-Level Architecture](high-level-architecture.png "Hyperloot High-Level Architecture")
+![Hyperloot High-Level Architecture](high_level_architecture.png "Hyperloot High-Level Architecture")
 
 Hyperloot protocol defines 2 main components which interact with each other and with blockchain at the same time: Hyperloot Client and Hyperloot Server. Hyperloot Server is designed to handle all token issuances and to store basic information about user's tokenized assets. Obviously this information could be fetched from blockchain but the purpose of having it on the server is for synchronizing tokens and assets. There's no intention to make the system centralized. Hyperloot Client implements an API on the client side which interacts with Hyperloot Server and blockchain under the hood. Client SDK could be implemented for any popular platform e.g. Native iOS/Android, Unity, Unreal, Web, Desktop - there are no platform restrictions.
 
