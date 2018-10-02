@@ -1,10 +1,10 @@
 
-# Product documentation
+# Main documentation
 
-[Onepager](/hyperloot_onepager.pdf)
+[Onepager](/documents/hyperloot_onepager.pdf)
 
-[HyperLoot main deck](/hyperloot_deck.pdf)
+[HyperLoot main deck](/documents/hyperloot_deck.pdf)
 
-[HyperLoot branding](/hyperloot_branding.pdf)
+[HyperLoot branding](/documents/hyperloot_branding.pdf)
 
-[Architecture overview](/High-level architecture.MD)
+[Architecture overview](/documents/High-level architecture.MD)
