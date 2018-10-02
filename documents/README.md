@@ -1,7 +1,10 @@
 
 # Product documentation
-[Brand requirements](/Brand%20requirements.md)
 
-[One Pager](/ONEPAGER.md)
+[Onepager](/hyperloot_onepager.pdf)
 
-[Hyperloot Deck](/Hyperloot%20deck.pptx)
+[HyperLoot main deck](/hyperloot_deck.pdf)
+
+[HyperLoot branding](/hyperloot_branding.pdf)
+
+[Architecture overview](/High-level architecture.MD)
