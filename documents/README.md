@@ -7,4 +7,4 @@
 
 [HyperLoot branding](/documents/hyperloot_branding.pdf)
 
-[Architecture overview](/documents/High-level architecture.MD)
+[Architecture overview](/documents/high_level_architecture.MD)
