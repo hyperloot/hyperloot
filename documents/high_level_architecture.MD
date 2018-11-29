@@ -21,7 +21,7 @@ REST web services is the main entry point for Client SDK and Token Control Panel
 Database doesn't contain full information about users from the developer's project standpoint, there are only basic parameters like owned assets, wallet address for serving protocol needs. API returns the data only per app via AppKey/AppSecret, it's not possible to developer to get the data about all projects from the database.
 
 
-### Wallet layer
+### Blockchain Explorer
 This module helps the SDK to get public information about wallets, balances from blockchain to synchronize with existing data in database if needed. Database doesn't have cloned information from blockchain, this is necessary for getting blockchain data faster and in a secure way. Private keys are belong to user and they are not stored on the server in any way.
 
 ### Smart contract producer
@@ -34,6 +34,6 @@ Typically it takes some time to verify transactions on blockchain by nodes. Hype
 ## Hyperloot Client
 
 
-Client SDK interacts with Hyperloot Server and blockchain in parallel. It provides an API for developer's project (game/app) to support full cycle of token trading: registering internal Hyperloot user, fetching user's assets, transferring user's assets. All blockchain transfer operations are performed via Wallet layer in a secure way using private keys stored on a device. Wallet layer also helps to get information from blockchain faster to reduce demand on the server.
+Client SDK interacts with Hyperloot Server and blockchain in parallel. It provides an API for developer's project (game/app) to support full cycle of token trading: registering internal Hyperloot user, fetching user's assets, transferring user's assets. All blockchain transfer operations are basically raw transactions to a full node signed with private keys stored on a device. Blockchain explorer helps to get information faster and in the most efficient way to reduce demand on blockchain - usually data structures are not designed to get relations between tokens/transactions/etc. easily.
 
 Client also has similar transactions daemon like on the server which checks only current user's transactions. If transaction is verified by nodes then the Client will perform a handshake - an API call to synchronize the data between Client and Server to make sure that everything is up-to-date. 
